@@ -54,6 +54,6 @@ dkms.conf
 # Backup files
 *.c~
 
-# Binarios de los ejercicios
-bin/ej*
-bin/sh
+# Binarios 
+ftpclient
+ftpserver
